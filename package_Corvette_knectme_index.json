@@ -15,9 +15,9 @@
           "architecture": "AE100-NDSv3m",
           "version": "1.6.5",
           "category": "Corvette",
-          "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-F1-AE100-NDSv3m-1.6.5.zip",
+          "url": "http://knect.me/corvette/Corvette-F1-AE100-NDSv3m-1.6.5.zip",
           "archiveFileName": "Corvette-F1-AE100-NDSv3m-1.6.5.zip",
-          "checksum": "SHA-256:78812d5281885d4c4e761acf6c64c9dcf2bf50b45862e2e8e3854b6f48d7f147",
+          "checksum": "SHA-256:a1f6498bd97394a9f23fddcd894246dcc008a43fb5929943ded19f9ade0a3d7e",
           "size": "71100",
           "boards": [
             {"name": "Corvette-F1 AE100"}
@@ -40,9 +40,9 @@
           "architecture": "AE210P-NDSv3",
           "version": "1.6.5",
           "category": "Corvette",
-          "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-F1-AE210P-NDSv3-1.6.5.zip",
+          "url": "http://knect.me/corvette/Corvette-F1-AE210P-NDSv3-1.6.5.zip",
           "archiveFileName": "Corvette-F1-AE210P-NDSv3-1.6.5.zip",
-          "checksum": "SHA-256:824fc7e38ac6247e2829978106c71c4baade841f40abd114f57636cf30617e37",
+          "checksum": "SHA-256:32deb1078617e3fa042c73d674b885c8334f6fde1be29bee3d4ff9ace6f9b4a8",
           "size": "692885",
           "boards": [
             {"name": "Corvette-F1 AE210P"}
@@ -61,39 +61,14 @@
           ]
         },
         {
-          "name": "Corvette-F1 AE250 NDSv5 Boards",
-          "architecture": "AE250-NDSv5-RV32",
-          "version": "1.6.5",
-          "category": "Corvette",
-          "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-F1-AE250-NDSv5-RV32-1.6.5.zip",
-          "archiveFileName": "Corvette-F1-AE250-NDSv5-RV32-1.6.5.zip",
-          "checksum": "SHA-256:efcad6e29ee606b6ff24942bf3d4c82c20422d678cd3b48137e09834fe2b2293",
-          "size": "105560",
-          "boards": [
-            {"name": "Corvette-F1 AE250"}
-          ],
-          "toolsDependencies": [
-            {
-              "packager": "Corvette",
-              "name": "nds32le-elf-mculib-v5",
-              "version": "3.2.1-ast"
-            },
-            {
-              "packager": "Corvette",
-              "name": "burner",
-              "version": "3.2.1-ast"
-            }
-          ]
-        },
-        {
           "name": "Corvette-F1 N25 Boards",
           "architecture": "Corvette-F1-N25",
           "version": "1.6.5",
           "category": "Corvette",
-          "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-F1-N25-1.6.5.zip",
+          "url": "http://knect.me/corvette/Corvette-F1-N25-1.6.5.zip",
           "archiveFileName": "Corvette-F1-N25-1.6.5.zip",
-          "checksum": "SHA-256:5d3d9b6fe98682339991b742f70334327796efd24ea58f51eb19f79e12e55eff",
-          "size": "105556",
+          "checksum": "SHA-256:fef2c4cce1815033bb65160932944bd02b4bcce8cac020034b067311820d921e",
+          "size": "105534",
           "boards": [
             {"name": "Corvette-F1 N25"}
           ],
@@ -115,9 +90,9 @@
           "architecture": "M1-NDSv3m",
           "version": "1.6.5",
           "category": "Corvette",
-          "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-M1-1.6.5.zip",
+          "url": "http://knect.me/corvette/Corvette-M1-1.6.5.zip",
           "archiveFileName": "Corvette-M1-1.6.5.zip",
-          "checksum": "SHA-256:2b2bc14beb3e76937cee447d2221d95352ef7c081896cca06e22751197d4c41c",
+          "checksum": "SHA-256:01c3af087f43b52cad972a293bc22b65e1e34e398f4a7ae918909168048f879f",
           "size": "737005",
           "boards": [
             {"name": "Corvette-M1"}
@@ -143,7 +118,7 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/andestech/Arduino/releases/download/AST-v3.2.1/nds32le-elf-mculib-v3m.tar.gz",
+              "url": "http://knect.me/corvette/tools/nds32le-elf-mculib-v3m.tar.gz",
               "archiveFileName": "nds32le-elf-mculib-v3m.tar.gz",
               "checksum": "SHA-256:754d8f1a74e8ba00442f00a4e34a89e07d89b232c7c39ea575ceab37818e1814",
               "size": "119558053"
@@ -156,7 +131,7 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/andestech/Arduino/releases/download/AST-v3.2.1/nds32le-elf-mculib-v3.tar.gz",
+              "url": "http://knect.me/corvette/tools/nds32le-elf-mculib-v3.tar.gz",
               "archiveFileName": "nds32le-elf-mculib-v3.tar.gz",
               "checksum": "SHA-256:16819fe2fce6265c518320a70d322e3455e28a71336273a52153e4d6d4c40a5c",
               "size": "326760544"
@@ -169,7 +144,7 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/andestech/Arduino/releases/download/AST-v3.2.1/nds32le-elf-mculib-v5.tar.gz",
+              "url": "http://knect.me/corvette/tools/nds32le-elf-mculib-v5.tar.gz",
               "archiveFileName": "nds32le-elf-mculib-v5.tar.gz",
               "checksum": "SHA-256:b37f729bf75f46bf80b58c7d399d3c35078297a315fa6244b391a20a93165259",
               "size": "244905275"
@@ -182,7 +157,7 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/andestech/Arduino/releases/download/AST-v3.2.1/burner.tar.gz",
+              "url": "http://knect.me/corvette/tools/burner.tar.gz",
               "archiveFileName": "burner.tar.gz",
               "checksum": "SHA-256:43d81314a6319194daddfea6f4c322828a7ff95aefe0bb2403b3fd4b8eb572e1",
               "size": "8881520"
@@ -195,7 +170,7 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/andestech/Arduino/releases/download/AST-v3.2.1/m2c_burner.tar.gz",
+              "url": "http://knect.me/corvette/tools/m2c_burner.tar.gz",
               "archiveFileName": "m2c_burner.tar.gz",
               "checksum": "SHA-256:4f97d0517584c6eca6d13d92906706c137cc54e61abeef374f2da1da67ced17f",
               "size": "7171509"
