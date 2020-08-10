@@ -17,7 +17,7 @@
           "category": "Corvette",
           "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-F1-AE100-NDSv3m-1.6.5.zip",
           "archiveFileName": "Corvette-F1-AE100-NDSv3m-1.6.5.zip",
-          "checksum": "SHA-256:cf5925728274c304782f891abeb4e1641b71f5d47f7594118b3ddcc9ea1298bf",
+          "checksum": "SHA-256:ef30886c445a39850a5ce30d51cbaf489e2dd26b419d2b4fcdab7a99fc1510dc",
           "size": "71100",
           "boards": [
             {"name": "Corvette-F1 AE100"}
@@ -42,7 +42,7 @@
           "category": "Corvette",
           "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-F1-AE210P-NDSv3-1.6.5.zip",
           "archiveFileName": "Corvette-F1-AE210P-NDSv3-1.6.5.zip",
-          "checksum": "SHA-256:5e968742c099cd14892bf53920b3cad9f30e1d69b706baa3de19e2f66d6ef456",
+          "checksum": "SHA-256:58bd4eacdb07018cd7e4b166b74208fb4f863bea8c5fb01da9419644aee44c0a",
           "size": "692885",
           "boards": [
             {"name": "Corvette-F1 AE210P"}
@@ -67,8 +67,8 @@
           "category": "Corvette",
           "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-F1-N25-1.6.5.zip",
           "archiveFileName": "Corvette-F1-N25-1.6.5.zip",
-          "checksum": "SHA-256:a63680aec777b6d55f7069746888e4327c4eddc56198b0156a52311f75331422",
-          "size": "106737",
+          "checksum": "SHA-256:b456b6992ce5c8bba2dd2728ac48820c47c65403c8eb433682b90fd5d619b257",
+          "size": "106761",
           "boards": [
             {"name": "Corvette-F1 N25"}
           ],
@@ -92,7 +92,7 @@
           "category": "Corvette",
           "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-M1-1.6.5.zip",
           "archiveFileName": "Corvette-M1-1.6.5.zip",
-          "checksum": "SHA-256:0976259c18858753c2be7bbab8f25163670f1790ced1a7d5a785cc6d5e3a848f",
+          "checksum": "SHA-256:b65618e0796ccfc66dfcb5ef62c69a06ea49cc423bf06d73b4896c3a39532a4a",
           "size": "737005",
           "boards": [
             {"name": "Corvette-M1"}
