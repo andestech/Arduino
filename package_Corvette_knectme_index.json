@@ -15,7 +15,7 @@
           "architecture": "AE100-NDSv3m",
           "version": "1.6.5",
           "category": "Corvette",
-          "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-F1-AE100-NDSv3m-1.6.5.zip",
+          "url": "https://raw.githubusercontent.com/andestech/Arduino/Developer-1.6.5-branch/Corvette-F1-AE100-NDSv3m-1.6.5.zip",
           "archiveFileName": "Corvette-F1-AE100-NDSv3m-1.6.5.zip",
           "checksum": "SHA-256:368bb75221f947ff5c331226abe1df4c4d1e95fb28d7641b6ca0e06e16f6588a",
           "size": "71106",
@@ -40,7 +40,7 @@
           "architecture": "AE210P-NDSv3",
           "version": "1.6.5",
           "category": "Corvette",
-          "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-F1-AE210P-NDSv3-1.6.5.zip",
+          "url": "https://raw.githubusercontent.com/andestech/Arduino/Developer-1.6.5-branch/Corvette-F1-AE210P-NDSv3-1.6.5.zip",
           "archiveFileName": "Corvette-F1-AE210P-NDSv3-1.6.5.zip",
           "checksum": "SHA-256:c405434bf689fbf493344833f831c5d31bae571694de19bfafba7185e94bf5d5",
           "size": "692891",
@@ -65,7 +65,7 @@
           "architecture": "Corvette-F1-N25",
           "version": "1.6.5",
           "category": "Corvette",
-          "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-F1-N25-1.6.5.zip",
+          "url": "https://raw.githubusercontent.com/andestech/Arduino/Developer-1.6.5-branch/Corvette-F1-N25-1.6.5.zip",
           "archiveFileName": "Corvette-F1-N25-1.6.5.zip",
           "checksum": "SHA-256:20d181f3e9924ff0a5b9ae1c3f2463aa039eba78b8d0f4cde1e808fcc4a36418",
           "size": "126212",
@@ -90,7 +90,7 @@
           "architecture": "M1-NDSv3m",
           "version": "1.6.5",
           "category": "Corvette",
-          "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-M1-1.6.5.zip",
+          "url": "https://raw.githubusercontent.com/andestech/Arduino/Developer-1.6.5-branch/Corvette-M1-1.6.5.zip",
           "archiveFileName": "Corvette-M1-1.6.5.zip",
           "checksum": "SHA-256:283471e18934be26756862c24c3277cd1921da65582479f1fde377928e5af5cf",
           "size": "737005",
@@ -181,4 +181,3 @@
     }
   ]
 }
-
