@@ -17,7 +17,7 @@
           "category": "Corvette",
           "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-F1-AE100-NDSv3m-1.8.13.zip",
           "archiveFileName": "Corvette-F1-AE100-NDSv3m-1.8.13.zip",
-          "checksum": "SHA-256:4f93cbdae9361114b789cb44ee6b844cbe08cc32ce5e31e0ae011d6348094fd6",
+          "checksum": "SHA-256:2858be2d5306d3b9ddb949c265db1d3f0acb192d6e99728662fbf3445ca321a0",
           "size": "71252",
           "boards": [
             {"name": "Corvette-F1 AE100"}
@@ -31,7 +31,7 @@
             {
               "packager": "Corvette",
               "name": "burner",
-              "version": "5.0.0-ast"
+              "version": "5.1.0-ast"
             }
           ]
         },
@@ -42,7 +42,7 @@
           "category": "Corvette",
           "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-F1-AE210P-NDSv3-1.8.13.zip",
           "archiveFileName": "Corvette-F1-AE210P-NDSv3-1.8.13.zip",
-          "checksum": "SHA-256:eff925054d6218f339d4599b85b65cab4957d9d131f99ff3eb3bca27b82da8e0",
+          "checksum": "SHA-256:b15973607a6314207c39fa8af4fa7bb02c2eef5d272f02ffc3bee265d7913e13",
           "size": "693121",
           "boards": [
             {"name": "Corvette-F1 AE210P"}
@@ -56,7 +56,7 @@
             {
               "packager": "Corvette",
               "name": "burner",
-              "version": "5.0.0-ast"
+              "version": "5.1.0-ast"
             }
           ]
         },
@@ -67,8 +67,8 @@
           "category": "Corvette",
           "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-F1-N25-1.8.13.zip",
           "archiveFileName": "Corvette-F1-N25-1.8.13.zip",
-          "checksum": "SHA-256:4b01cdd86321c16b8f84139f80576fa033630d38d7eba352ac9861f589ffb238",
-          "size": "391102",
+          "checksum": "SHA-256:5531f1faf2eb61118c375051acf01d06b3d80cf33b600c37c41676f265b100bc",
+          "size": "394804",
           "boards": [
             {"name": "Corvette-F1 N25"}
           ],
@@ -76,12 +76,37 @@
             {
               "packager": "Corvette",
               "name": "nds32le-elf-mculib-v5",
-              "version": "3.2.1-ast"
+              "version": "5.1.0-ast"
             },
             {
               "packager": "Corvette",
               "name": "burner",
-              "version": "5.0.0-ast"
+              "version": "5.1.0-ast"
+            }
+          ]
+        },
+        {
+          "name": "Corvette-T1 Boards",
+          "architecture": "Corvette-T1",
+          "version": "1.8.13",
+          "category": "Corvette",
+          "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-T1-1.8.13.zip",
+          "archiveFileName": "Corvette-T1-1.8.13.zip",
+          "checksum": "SHA-256:563545f66f5b6bb01df5495b611e8f38c88aabba992827b81092c311dc518f21",
+          "size": "302648",
+          "boards": [
+            {"name": "Corvette-T1"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "Corvette",
+              "name": "nds32le-elf-mculib-v5f",
+              "version": "5.1.0-ast"
+            },
+            {
+              "packager": "Corvette",
+              "name": "burner",
+              "version": "5.1.0-ast"
             }
           ]
         },
@@ -92,7 +117,7 @@
           "category": "Corvette",
           "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-M1-1.8.13.zip",
           "archiveFileName": "Corvette-M1-1.8.13.zip",
-          "checksum": "SHA-256:46077c839fb8bc214422346901c8ad9ee3120c4a1f83f7b3c1cb94486208ee18",
+          "checksum": "SHA-256:a2b0253e04fa9199fba535c66d3ebd2e243abf65c04f679869a4363d9ab6f44e",
           "size": "737383",
           "boards": [
             {"name": "Corvette-M1"}
@@ -120,8 +145,8 @@
               "host": "i686-mingw32",
               "url": "https://github.com/andestech/Arduino/releases/download/AST-v3.2.1/nds32le-elf-mculib-v3m.tar.gz",
               "archiveFileName": "nds32le-elf-mculib-v3m.tar.gz",
-              "checksum": "SHA-256:ef2b6f67e15a4a0826c9104ae1849986962c653e9e78347f6007286b2b5f699d",
-              "size": "119554223"
+              "checksum": "SHA-256:13b6283122e18505de5e72562fd961c0a7ce7101d315ee82980832e819021109",
+              "size": "119551661"
             }
           ]
         },
@@ -133,34 +158,47 @@
               "host": "i686-mingw32",
               "url": "https://github.com/andestech/Arduino/releases/download/AST-v3.2.1/nds32le-elf-mculib-v3.tar.gz",
               "archiveFileName": "nds32le-elf-mculib-v3.tar.gz",
-              "checksum": "SHA-256:ab17cf4a21e58c325a48dc82c8874217906c1e1f3a7e5b745cfb141d25952945",
-              "size": "326696306"
+              "checksum": "SHA-256:e48ca707067c2c150806266cb5d9f2109a2b77fc1018fed82161464d7d18cd6b",
+              "size": "326682431"
             }
           ]
         },
         {
           "name": "nds32le-elf-mculib-v5",
-          "version": "3.2.1-ast",
+          "version": "5.1.0-ast",
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/andestech/Arduino/releases/download/AST-v3.2.1/nds32le-elf-mculib-v5.tar.gz",
+              "url": "https://github.com/andestech/Arduino/releases/download/AST-v5.1.0/nds32le-elf-mculib-v5.tar.gz",
               "archiveFileName": "nds32le-elf-mculib-v5.tar.gz",
-              "checksum": "SHA-256:85f98e36e699988549f8a3128c34245849c3710297b2ec896e226b61357e9c01",
-              "size": "244918881"
+              "checksum": "SHA-256:a5eed4a9ba9cfb5422e9036549b3d9e387c80a379041671e010a4305f8c66d7f",
+              "size": "696304394"
+            }
+          ]
+        },
+        {
+          "name": "nds32le-elf-mculib-v5f",
+          "version": "5.1.0-ast",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/andestech/Arduino/releases/download/AST-v5.1.0/nds32le-elf-mculib-v5f.tar.gz",
+              "archiveFileName": "nds32le-elf-mculib-v5f.tar.gz",
+              "checksum": "SHA-256:e3c87f8cf00f2c0eb998059c9198199303b5d713db3e02d4e001b4f09c709833",
+              "size": "791255924"
             }
           ]
         },
         {
           "name": "burner",
-          "version": "5.0.0-ast",
+          "version": "5.1.0-ast",
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/andestech/Arduino/releases/download/AST-v5.0.0/burner.tar.gz",
+              "url": "https://github.com/andestech/Arduino/releases/download/AST-v5.1.0/burner.tar.gz",
               "archiveFileName": "burner.tar.gz",
-              "checksum": "SHA-256:159705b69a9ada3fe75d6205c35b822fb1ebe62458d28481c3eb7badef176e76",
-              "size": "9257649"
+              "checksum": "SHA-256:2d438f381bc033520229453740a30a6741d0b645b65c00cb48767c81d7002b28",
+              "size": "10566240"
             }
           ]
         },
@@ -172,8 +210,8 @@
               "host": "i686-mingw32",
               "url": "https://github.com/andestech/Arduino/releases/download/AST-v3.2.1/m2c_burner.tar.gz",
               "archiveFileName": "m2c_burner.tar.gz",
-              "checksum": "SHA-256:761abcdcaddea92b8dc500a52ff7dbb642c5e8ee626ffccc3c814389e00e41ad",
-              "size": "7169821"
+              "checksum": "SHA-256:ad55532851a685f247b74683300b13ecda3273c8e669cbf28e78a379fd9339f5",
+              "size": "7169904"
             }
           ]
         }
