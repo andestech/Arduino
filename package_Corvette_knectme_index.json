@@ -17,7 +17,7 @@
           "category": "Corvette",
           "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-F1-AE100-NDSv3m-1.8.13.zip",
           "archiveFileName": "Corvette-F1-AE100-NDSv3m-1.8.13.zip",
-          "checksum": "SHA-256:2858be2d5306d3b9ddb949c265db1d3f0acb192d6e99728662fbf3445ca321a0",
+          "checksum": "SHA-256:f7dc0f52a8f0beb16c1b6be39f290323f255c136e1eedb8ce3c31fd050f50217",
           "size": "71252",
           "boards": [
             {"name": "Corvette-F1 AE100"}
@@ -42,7 +42,7 @@
           "category": "Corvette",
           "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-F1-AE210P-NDSv3-1.8.13.zip",
           "archiveFileName": "Corvette-F1-AE210P-NDSv3-1.8.13.zip",
-          "checksum": "SHA-256:b15973607a6314207c39fa8af4fa7bb02c2eef5d272f02ffc3bee265d7913e13",
+          "checksum": "SHA-256:843c225cc5dfd1401071ec8e409d6edc91f7e0bba9e14b00d3964da2cebf531c",
           "size": "693121",
           "boards": [
             {"name": "Corvette-F1 AE210P"}
@@ -67,8 +67,8 @@
           "category": "Corvette",
           "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-F1-N25-1.8.13.zip",
           "archiveFileName": "Corvette-F1-N25-1.8.13.zip",
-          "checksum": "SHA-256:5531f1faf2eb61118c375051acf01d06b3d80cf33b600c37c41676f265b100bc",
-          "size": "394804",
+          "checksum": "SHA-256:c7c4dc833b1d7b65b799e8f1cad6c1f4a72fd898d6c71bbb34a6eab186fae9c8",
+          "size": "394798",
           "boards": [
             {"name": "Corvette-F1 N25"}
           ],
@@ -92,8 +92,8 @@
           "category": "Corvette",
           "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-T1-1.8.13.zip",
           "archiveFileName": "Corvette-T1-1.8.13.zip",
-          "checksum": "SHA-256:563545f66f5b6bb01df5495b611e8f38c88aabba992827b81092c311dc518f21",
-          "size": "302648",
+          "checksum": "SHA-256:437ee01e7069958dd93830ad28d51726f712e503141c57038663f5d43e6f4220",
+          "size": "302886",
           "boards": [
             {"name": "Corvette-T1"}
           ],
@@ -117,7 +117,7 @@
           "category": "Corvette",
           "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-M1-1.8.13.zip",
           "archiveFileName": "Corvette-M1-1.8.13.zip",
-          "checksum": "SHA-256:a2b0253e04fa9199fba535c66d3ebd2e243abf65c04f679869a4363d9ab6f44e",
+          "checksum": "SHA-256:7f4bd0bb06fb261dd87f6f01b086acf1cbf66e5497fa2dce81ede2de581cda89",
           "size": "737383",
           "boards": [
             {"name": "Corvette-M1"}
