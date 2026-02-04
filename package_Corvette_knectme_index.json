@@ -13,12 +13,12 @@
         {
           "name": "Corvette-F1 N25 Boards",
           "architecture": "Corvette-F1-N25",
-          "version": "2.3.3",
+          "version": "2.3.7",
           "category": "Corvette",
-          "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-F1-N25-2.3.3.zip",
-          "archiveFileName": "Corvette-F1-N25-2.3.3.zip",
-          "checksum": "SHA-256:3273d04baaf5cef489d058ca3f07b4866b0e8ad366e999e56003d52ade2bba22",
-          "size": "430822",
+          "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-F1-N25-2.3.7.zip",
+          "archiveFileName": "Corvette-F1-N25-2.3.7.zip",
+          "checksum": "SHA-256:d4742ef03d63212cfea4e1d2f8eabee80e5688f8cdcb539b28bb9178377bf8bd",
+          "size": "430789",
           "boards": [
             {"name": "Corvette-F1 N25"}
           ],
@@ -38,12 +38,12 @@
         {
           "name": "Corvette-T1 Boards",
           "architecture": "Corvette-T1",
-          "version": "2.3.3",
+          "version": "2.3.7",
           "category": "Corvette",
-          "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-T1-2.3.3.zip",
-          "archiveFileName": "Corvette-T1-2.3.3.zip",
-          "checksum": "SHA-256:71c4457fefe0d859837492a6243b75bc72c8b9316d44b7b73982702d9afda52c",
-          "size": "340298",
+          "url": "https://raw.githubusercontent.com/andestech/Arduino/master/Corvette-T1-2.3.7.zip",
+          "archiveFileName": "Corvette-T1-2.3.7.zip",
+          "checksum": "SHA-256:93d369d87d67071ca6c53f4fdf4bf247ef208a33bc23c860b2eea15eb7fb11dc",
+          "size": "340265",
           "boards": [
             {"name": "Corvette-T1"}
           ],
@@ -70,8 +70,8 @@
               "host": "i686-mingw32",
               "url": "https://github.com/andestech/Arduino/releases/download/AST-v5.4.0/nds32le-elf-mculib-v5.tar.gz",
               "archiveFileName": "nds32le-elf-mculib-v5.tar.gz",
-              "checksum": "SHA-256:7c54417922222d3519cb91e59b64d044c1a4f28f257e3d96e1c2845512a6faa6",
-              "size": "804704557"
+              "checksum": "SHA-256:1d5dbc38b79ccada737818c6abf855b7b2e7b70f16ba02f65c4e0ec8039cb12a",
+              "size": "804751069"
             }
           ]
         },
@@ -83,8 +83,8 @@
               "host": "i686-mingw32",
               "url": "https://github.com/andestech/Arduino/releases/download/AST-v5.4.0/nds32le-elf-mculib-v5f.tar.gz",
               "archiveFileName": "nds32le-elf-mculib-v5f.tar.gz",
-              "checksum": "SHA-256:1330e939415395eca7d30350a313495b211bf511ed203958c75356d35f97dd41",
-              "size": "804209854"
+              "checksum": "SHA-256:07e01a9127f1e5f4ded324a7a27cd6628dca2c04f2733577e8ded3e3d0f2574c",
+              "size": "804247513"
             }
           ]
         },
@@ -96,8 +96,8 @@
               "host": "i686-mingw32",
               "url": "https://github.com/andestech/Arduino/releases/download/AST-v5.4.0/burner.tar.gz",
               "archiveFileName": "burner.tar.gz",
-              "checksum": "SHA-256:58780c19e5575c08198ec243d82966ec88d80fb8b9a901e0c7c7587943514510",
-              "size": "11151099"
+              "checksum": "SHA-256:315c232c40d3e5d3107804bc95c6e87d8f94270389d7cbfbe0a2838fe84cd8a9",
+              "size": "11156403"
             }
           ]
         }
